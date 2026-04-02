@@ -26,7 +26,14 @@ Example:
 Enter a password: Hello123 
 Result: Strong password
 
+### D3 - Grade Analyzer
 
+C++ program that calculates the average grade of 5 students, counts how many passed and failed, and validates input (grades must be between 0 and 5).
+
+How to Use:
+1. Open `D3_Grade Analyzer.cpp` in your C++ compiler.
+2. Compile and run the program.
+3. Enter grades when prompted.
 
 ## Author
 Kaleidoscope
