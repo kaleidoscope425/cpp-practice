@@ -35,6 +35,17 @@ How to Use:
 2. Compile and run the program.
 3. Enter grades when prompted.
 
+### D4 - Calculator
+
+This C++ program performs basic arithmetic operations between two numbers.
+
+Features:
+- Menu using switch
+- Addition
+- Subtraction
+- Multiplication
+- Division with division-by-zero validation
+
 ## Author
 Kaleidoscope
 
