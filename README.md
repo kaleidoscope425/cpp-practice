@@ -46,6 +46,15 @@ Features:
 - Multiplication
 - Division with division-by-zero validation
 
+### D5 - Sum of Digits
+
+This C++ program asks the user for an integer and calculates the sum of its digits.
+
+Example:
+
+Input: 1234  
+Output: 10
+
 ## Author
 Kaleidoscope
 
