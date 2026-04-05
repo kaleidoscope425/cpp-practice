@@ -55,6 +55,16 @@ Example:
 Input: 1234  
 Output: 10
 
+### D6 - Prime Number Checker
+
+This C++ program checks whether a number entered by the user is a prime number.
+
+A prime number is only divisible by 1 and itself.
+
+#### Example
+Input: 7  
+Output: The number is prime.
+
 ## Author
 Kaleidoscope
 
