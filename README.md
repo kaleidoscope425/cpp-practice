@@ -65,6 +65,15 @@ A prime number is only divisible by 1 and itself.
 Input: 7  
 Output: The number is prime.
 
+### D7 - Multiplication Table Generator
+
+This C++ program asks the user for a number and prints its multiplication table from 1 to 10.
+
+Concepts used:
+- for loops
+- user input
+- arithmetic operations
+
 ## Author
 Kaleidoscope
 
