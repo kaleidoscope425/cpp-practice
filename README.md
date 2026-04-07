@@ -74,6 +74,24 @@ Concepts used:
 - user input
 - arithmetic operations
 
+### D8 - Palindrome Checker
+
+This C++ program checks whether a word is a palindrome.
+
+A palindrome is a word that reads the same forward and backward.
+
+Examples:
+- radar
+- level
+- madam
+
+## How it works
+
+1. The user enters a word.
+2. The program reverses the word using a loop.
+3. It compares the reversed word with the original.
+4. It prints whether the word is a palindrome or not.
+
 ## Author
 Kaleidoscope
 
