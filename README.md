@@ -92,6 +92,23 @@ Examples:
 3. It compares the reversed word with the original.
 4. It prints whether the word is a palindrome or not.
 
+##D9 - Valid Parentheses
+
+This C++ program checks whether a string of brackets is valid.
+
+A valid string means that every opening bracket has a matching closing bracket in the correct order.
+
+Examples:
+
+()
+()[]{}
+([{}])
+## How it works
+The user enters a string of brackets.
+The program uses a stack to store opening brackets.
+For each closing bracket, it checks if it matches the last opening one.
+If all brackets match correctly, the string is valid.
+
 ## Author
 Kaleidoscope
 
